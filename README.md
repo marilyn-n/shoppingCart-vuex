@@ -1,6 +1,7 @@
-# shopping-cart
+# Shopping Cart with Vuex
 
-> A Vue.js project
+## What is Vuex?
+Vuex is a state management pattern + library for Vue.js applications. It serves as a centralized store for all the components in an application, with rules ensuring that the state can only be mutated in a predictable fashion. 
 
 ## Build Setup
 
@@ -17,5 +18,3 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
